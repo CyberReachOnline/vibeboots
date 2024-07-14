@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+horizon.ancorathemes.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+horizon.ancorathemes.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_5a82b5a2a4dfe456ef7b9feb45976ae9	t_69b511c4afe6e866e1ba73bf450991%7C%7C1719527124%7C%7C1719523524%7C%7C5c0db61a912bcf06c936498f63efec1b
+horizon.ancorathemes.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	82e5146abb2d5159336168185d1e54f0
+
